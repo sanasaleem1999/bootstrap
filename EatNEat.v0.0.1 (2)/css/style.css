@@ -1,0 +1,64 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  overflow: hidden;
+}
+
+/* header .carousel-inner .item {
+  height: 100vh;
+}
+
+.navbar-inverse {
+  background-color: transparent !important;
+  border-color: transparent !important;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white !important;
+  font-size: 40px;
+  padding: 40px 15px;
+  font-weight: 900;
+} */
+
+/*.nav .navbar-nav .navbar-right{
+    margin: 25px 0;
+   
+}*/
+
+/* .navbar-inverse .navbar-nav > li > a {
+  color: #fff !important;
+  text-transform: uppercase;
+}
+
+.banner {
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.nav {
+  margin-top: 30px !important;
+} */
+
+/*#pic1{
+    width: 500px;
+    height: 200px;
+    margin-left: 30%;
+    margin-bottom: 20px;
+}*/
+
+.nav-color {
+  background-color: transparent !important;
+  border-color: transparent !important;
+}

@@ -1,0 +1,31 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+.wrapper{
+    overflow: hidden;
+}
+.head1{
+         margin-left: 40%;
+         margin-top: 30px;
+}
+ .line1{
+     height: auto;
+}
+ .box{
+     border: 20x solid black;
+ }
+
+/* @media-breakpoint-down (md){
+     .first-pic{
+         width: 80%;
+     }
+ }*/
